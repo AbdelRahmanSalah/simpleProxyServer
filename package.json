@@ -1,0 +1,11 @@
+{
+  "name": "simpleProxy",
+  "version": "0.1",
+  "description": "simple proxy server",
+  "main": "simpleProxy.js",
+  "keywords": ["proxy"],
+  "author": "AbdelRahmanSalah",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}

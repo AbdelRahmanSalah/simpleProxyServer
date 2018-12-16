@@ -10,4 +10,4 @@ var config = {
 } 
 ```
 
-Each index in the mapping array consisting of two parts first part the regex that if it matched the server will redirect the request to server in the second part ordering is important
+Each index in the mapping array consisting of two parts first part the regex that if it matched the server will redirect the request to the server in the second part ordering is important
